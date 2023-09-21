@@ -1,3 +1,4 @@
+![coding_gif](https://github.com/mansipatil12/mansipatil12/assets/85823207/dd6633d8-862a-4705-9ff9-ac0b31654fc1)
 <h1 align="center">Hi 👋, I'm Mansi Patil</h1>
 <h3 align="center">Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.</h3>
 
