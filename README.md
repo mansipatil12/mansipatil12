@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansipatil12&label=Profile%20views&color=0e75b6&style=flat" alt="mansipatil12" /> </p>
 
-- 🔭 I’m currently working on **Research Mentorship Bot**
-
 - 🌱 I’m currently learning **Data Structures, AI/ML, OOPS**
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
