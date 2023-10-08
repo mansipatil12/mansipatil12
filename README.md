@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: patilmansi1201@gmail.com</h3>
 <p align="left">
 </p>
 
