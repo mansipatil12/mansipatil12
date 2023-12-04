@@ -19,3 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansipatil12&show_icons=true&locale=en&layout=compact" alt="mansipatil12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansipatil12&show_icons=true&locale=en" alt="mansipatil12" /></p>
+
+[![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansipatil12&show_icons=true&theme=tokyonight)](https://github.com/mansipatil12/)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansipatil12&layout=compact&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/mansipatil12/)
