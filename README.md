@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansipatil12&label=Profile%20views&color=0e75b6&style=flat" alt="mansipatil12" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, AI/ML, OOPS**
+- 🌱 I’m currently learning **Data Structures, AI/ML concepts**
 
-- 👯 I’m looking to collaborate on **Machine Learning Project**
+- 👯 I’m looking to collaborate on **Web development and Machine Learning Project**
 
 <h3 align="left">Connect with me:
   patilmansi1201@gmail.com</h3>
