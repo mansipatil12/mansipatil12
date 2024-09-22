@@ -1,6 +1,5 @@
 ![coding_gif](https://github.com/mansipatil12/mansipatil12/assets/85823207/dd6633d8-862a-4705-9ff9-ac0b31654fc1)
 <h1 align="center">Hi 👋, I'm Mansi Patil</h1>
-- 🌱 I’m currently learning **MERN Stack, Deep learning and practicing DSA**
 
 - 📝 I regularly write articles on [https://medium.com/@patilmansi1201](https://medium.com/@patilmansi1201)
 
