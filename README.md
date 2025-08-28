@@ -1,26 +1,76 @@
-![coding_gif](https://github.com/mansipatil12/mansipatil12/assets/85823207/dd6633d8-862a-4705-9ff9-ac0b31654fc1)
-<h1 align="center">Hi 👋, I'm Mansi Patil</h1>
+# 👋 Hi, I'm Mansi Patil  
 
-- 📝 I regularly write articles on [https://medium.com/@patilmansi1201](https://medium.com/@patilmansi1201)
+🎓 **B.Tech in Computer Science & Engineering (AI/ML)**  
+📍 Bennett University | **Graduating May 2026**  
+💻 **Aspiring Software Developer & AI Enthusiast**  
+🌍 Upcoming Semester Exchange: **University of California, Berkeley (Feb 2025)**  
 
-- 📫 How to reach me **patilmansi1201@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mansi-patil-447361218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-patil-447361218" height="30" width="40" /></a>
-<a href="https://instagram.com/___mansipatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mansipatil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/patilmansi1201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patilmansi1201" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/patilmanwd1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="patilmanwd1p" height="30" width="40" /></a>
-</p>
+## 🚀 About Me  
+- 🔹 Passionate about **AI/ML, Web Development, and System Design**  
+- 🔹 Experienced with **Python, C++, JavaScript, MERN, Next.js**  
+- 🔹 Building **AI-driven applications**, exploring **LLMs & Generative AI**  
+- 🔹 Published research on **Explainable AI & Computer Vision**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansipatil12&show_icons=true&locale=en&layout=compact" alt="mansipatil12" /></p> -->
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&locale=en" alt="manya706" /></p>
--->
-<img src="https://myreadme.vercel.app/api/embed/mansipatil12?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+## 🛠 Tech Stack  
 
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mansipatil12&" alt="mansi" />  <!--<img align ="right" margin-right ="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=manya706&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="manya" /></p> -->
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+**AI/ML:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)  
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
+---
+
+## 📌 Projects  
+
+🔹 **[Welth](#)** | *AI Finance Tracking App*  
+`Python | Next.js | Prisma | TensorFlow`  
+- Finance management app with **AI-powered insights**, **multi-currency support**, and automated reports  
+
+🔹 **[Advanced Image Processor+](#)**  
+`Python | Flask | OpenCV`  
+- Implemented **Fourier Transform**, **noise reduction**, **segmentation** & evaluated results with PSNR & histogram analysis  
+
+🔹 **[PetWell](#)**  
+`React.js | Python | LangChain | Socket.io`  
+- AI-driven platform for **pet wellness**, featuring **real-time video calling**, analytics dashboard, and **activity recommendations**  
+## 📄 Publications  
+- **Accepted (Springer):** Explainable Brain Tumor Classification using CBAM-Augmented ResNet and Counterfactual Visual Explanation  
+- **Under Review:** The Evolution and Future of UAVs: Insights into Technologies and Applications  
+
+---
+
+## 📈 GitHub Stats  
+
+![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansipatil12&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansipatil12&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-patil-447361218/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mansipatil12)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilmansi1201@gmail.com)  
+
+---
+⭐ **Check out my projects and let's collaborate!** 
