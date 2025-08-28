@@ -3,12 +3,11 @@
 🎓 **B.Tech in Computer Science & Engineering (AI/ML)**  
 📍 Bennett University | **Graduating May 2026**  
 💻 **Aspiring Software Developer & AI Enthusiast**  
-🌍 Upcoming Semester Exchange: **University of California, Berkeley (Feb 2025)**  
 
 ---
 
 ## 🚀 About Me  
-- 🔹 Passionate about **AI/ML, Web Development, and System Design**  
+- 🔹 Passionate about **AI/ML and Web Development**  
 - 🔹 Experienced with **Python, C++, JavaScript, MERN, Next.js**  
 - 🔹 Building **AI-driven applications**, exploring **LLMs & Generative AI**  
 - 🔹 Published research on **Explainable AI & Computer Vision**  
