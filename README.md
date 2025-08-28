@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔹 Passionate about **AI/ML and Web Development**  
-- 🔹 Experienced with **Python, C++, JavaScript, MERN, Next.js**  
-- 🔹 Building **AI-driven applications**, exploring **LLMs & Generative AI**  
-- 🔹 Published research on **Explainable AI & Computer Vision**  
+  🔹 Passionate about **AI/ML and Web Development**  
+  🔹 Experienced with **Python, C++, JavaScript, MERN, Next.js**  
+  🔹 Building **AI-driven applications**, exploring **LLMs & Generative AI**  
+  🔹 Published research on **Explainable AI & Computer Vision**  
 
 ---
 
