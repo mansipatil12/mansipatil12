@@ -32,29 +32,10 @@
 
 ---
 
-## 📌 Projects  
-
-🔹 **[Welth](#)** | *AI Finance Tracking App*  
-`Python | Next.js | Prisma | TensorFlow`  
-- Finance management app with **AI-powered insights**, **multi-currency support**, and automated reports  
-
-🔹 **[Advanced Image Processor+](#)**  
-`Python | Flask | OpenCV`  
-- Implemented **Fourier Transform**, **noise reduction**, **segmentation** & evaluated results with PSNR & histogram analysis  
-
-🔹 **[PetWell](#)**  
-`React.js | Python | LangChain | Socket.io`  
-- AI-driven platform for **pet wellness**, featuring **real-time video calling**, analytics dashboard, and **activity recommendations**  
-## 📄 Publications  
-- **Accepted (Springer):** Explainable Brain Tumor Classification using CBAM-Augmented ResNet and Counterfactual Visual Explanation  
-- **Under Review:** The Evolution and Future of UAVs: Insights into Technologies and Applications  
-
----
-
 ## 📈 GitHub Stats  
 
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansipatil12&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansipatil12&layout=compact&theme=radical)  
+| ![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansipatil12&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansipatil12&layout=compact&theme=radical) |
+| --- | --- |
 
 ---
 
