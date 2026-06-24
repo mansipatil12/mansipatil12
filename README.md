@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mansi%20Patil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Building%20Intelligent%20Systems%20with%20LLMs&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mansi%20Patil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Building%20Scalable%20AI%20Systems&descAlignY=55&descSize=16" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+AI+that+doesn't+just+answer+questions;but+takes+action.+%F0%9F%9A%80;LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI;FastAPI+%7C+LangChain+%7C+Vector+DBs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Building+Scalable+AI+Systems;LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI;FastAPI+%7C+LangChain+%7C+Vector+DBs)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,19 +17,8 @@
 ## 👩‍💻 About Me
 
 🎓 **B.Tech CS (AI/ML)** at Bennett University · CGPA: **9.18**  
-🏢 Currently interning at **Haystek Technologies** — building agentic LLM pipelines & multi-bot chatbot platforms  
-🧠 Passionate about **LLMs, RAG, Agentic Workflows**, and production-grade AI systems  
+🏢 Currently working at **Haystek Technologies** as **AI Developer**  
 📍 Greater Noida, India
-
----
-
-## 💡 What I'm Currently Working On
-
-- 🤖 Enterprise AI Assistants & Workflow Automation  
-- 🔍 RAG Pipelines with Vector Databases  
-- 🧠 Agentic AI Systems & Multi-Agent Architectures  
-- ⚡ FastAPI Backend Development  
-- 🔗 AI Integrations & Automation using n8n  
 
 ---
 
@@ -119,7 +108,6 @@
 | 🏅 | Achievement |
 |---|---|
 | 🥇 | **Top 50 Mentee** — Microsoft Azure Include Her AI Cohort *(Selected from 1000+ applicants)* |
-| 🥈 | **Semi-Finalist** — EY Techathon 5.0 |
 | 🥈 | **Semi-Finalist** — Flipkart Grid 7.0 |
 
 ---
@@ -138,7 +126,6 @@
 📦 Advanced Agentic AI Systems
 🏗️ AI Infrastructure & Deployment
 ⚙️ MLOps & Production AI
-🌐 Distributed Systems for AI Applications
 ```
 
 ---
