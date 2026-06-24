@@ -17,7 +17,7 @@
 ## 👩‍💻 About Me
 
 🎓 **B.Tech CS (AI/ML)** at Bennett University · CGPA: **9.18**  
-🏢 Currently working at **Haystek Technologies** as **AI Developer**  
+🏢 Currently working at **Haystek Technologies** as **AI Developer** . Ex-Springworks, Honda Cars India Ltd
 📍 Greater Noida, India
 
 ---
