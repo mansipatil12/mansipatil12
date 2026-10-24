@@ -118,35 +118,6 @@
 
 ---
 
-### 🎓 Adaptive Study OS
-> An AI exam-prep planner I'm building now. 🚧
-
----
-
-## 📁 More Projects
-
-### 📝 MeetFlow — AI Meeting Assistant
-> AI-powered meeting assistant that generates meeting summaries, action items, follow-up tasks, and context-aware responses using RAG.
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
-</p>
-
-### 💰 WELTH — AI Finance Tracking Platform
-> Smart finance assistant with intelligent budgeting, personalized financial recommendations, AI-powered analytics dashboard, and RAG over transaction history.
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
-</p>
-
----
 
 ## 🏆 Achievements
 
@@ -194,9 +165,6 @@
   </a>
   <a href="https://github.com/mansipatil12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://serene-pegasus-358227.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
