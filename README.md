@@ -1,3 +1,2 @@
-<a href="https://github.com/mansipatil12">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansipatil12&theme=tokyonight&hide_border=true" alt="GitHub contributions" />
-</a>
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" width="49%" />
